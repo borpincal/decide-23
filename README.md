@@ -3,11 +3,8 @@
 Plataforma voto electrónico educativa
 
 
-=====================================
 
-
-
-COMMIT 3
+CAMBIOS COMMIT 1	
 
 El objetivo de este proyecto es implementar una plataforma de voto
 electrónico seguro, que cumpla una serie de garantías básicas, como la
