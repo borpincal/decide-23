@@ -2,7 +2,7 @@
 
 Plataforma voto electrónico educativa
 
-
+CAMBIOS PARA EL ACTIONS
 
 CAMBIOS COMMIT 1	
 
